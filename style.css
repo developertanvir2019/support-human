@@ -167,3 +167,8 @@ footer {
 footer h2 {
     color: orangered;
 }
+
+small {
+    font-size: 15px;
+    color: rgb(119, 119, 119);
+}
