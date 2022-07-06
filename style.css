@@ -5,10 +5,11 @@
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 37px;
 }
 
 .margin {
+
     margin-top: 35px;
 }
 
@@ -21,6 +22,10 @@ h1 {
     border-radius: 8px;
 }
 
+.banner-part h1 {
+    font-size: 50px;
+}
+
 .banner-part {
     text-align: center;
     color: white;
@@ -28,6 +33,7 @@ h1 {
     background-repeat: no-repeat;
     height: 100vh;
     padding-top: 130px;
+
 
 }
 
@@ -100,4 +106,25 @@ select {
 
 #card3 {
     background-color: rgb(255, 244, 214);
+}
+
+/* optional part */
+.optional-section {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.single-card2 {
+    width: 310px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 20px;
+    text-align: center;
+    text-align: justify;
+    background-color: rgba(206, 202, 202, 0.1);
+}
+
+.single-card2 img {
+    width: 100%;
+    border-radius: 5px;
 }
