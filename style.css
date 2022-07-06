@@ -8,11 +8,6 @@ h1 {
     font-size: 37px;
 }
 
-.margin {
-
-    margin-top: 35px;
-}
-
 .button {
     text-decoration: none;
     font-weight: 700;
@@ -20,6 +15,11 @@ h1 {
     padding: 11px 22px;
     color: white;
     border-radius: 8px;
+}
+
+.button-margin {
+    display: inline-block;
+    margin-top: 35px;
 }
 
 .banner-part h1 {
