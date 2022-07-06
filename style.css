@@ -15,7 +15,7 @@ h1 {
 .button {
     text-decoration: none;
     font-weight: 700;
-    background-color: rgb(255, 89, 89);
+    background-color: rgb(251, 82, 82);
     padding: 11px 22px;
     color: white;
     border-radius: 8px;
@@ -70,4 +70,34 @@ select {
     border: 1px solid rgb(204, 204, 204);
     border-radius: 4px;
     box-sizing: content-box;
+}
+
+.donation-plan {
+    text-align: center;
+    margin-top: 95px;
+}
+
+.card {
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.single-card {
+    background-color: rgb(237, 245, 246);
+    padding: 10px;
+    padding-top: 45px;
+    height: 230px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 0 10px;
+    text-align: left;
+}
+
+#card2 {
+    background-color: rgb(255, 238, 238);
+}
+
+#card3 {
+    background-color: rgb(255, 244, 214);
 }
